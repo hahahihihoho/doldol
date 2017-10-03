@@ -1,0 +1,22 @@
+/* Mulai */
+.blur-img{
+  opacity: 0.4;
+}
+
+.bg-prod-1{
+  background-color: #3DD2D9;
+}
+
+.aa-product-catg li figure .aa-add-card-btn{
+  font-size: 13px;
+}
+
+.aa-product-price del{
+  color: #C8C7C7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Oswald', sans-serif;
+}
+
+/* Selesai */

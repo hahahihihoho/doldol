@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: bot.php
+Disallow: botcurl.php
+Disallow: class.curl.php
+Disallow: mutasi.php
+Disallow: vieworder.php
+Disallow: test.php
+
